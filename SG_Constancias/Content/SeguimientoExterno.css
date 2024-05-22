@@ -1,0 +1,24 @@
+﻿body {
+}
+.formLayout {
+    border: 1px solid #3498DB;
+    border-radius: 4px;
+    margin: auto;
+    background-color: white;
+    max-width: 500px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.btn {
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+}

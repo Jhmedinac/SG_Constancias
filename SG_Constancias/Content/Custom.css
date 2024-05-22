@@ -1,0 +1,48 @@
+﻿.mainTable {
+    background: url(../Images/background.png) no-repeat;
+    width: 224px;
+}
+
+.refreshButton {
+    margin-left: 2px;
+    margin-top: 2px;
+    border-style: none;
+    cursor: pointer;
+    position: relative;
+    z-index: 2;
+}
+
+.submitButton {
+    margin: 0 auto;
+    display: block;
+}
+
+.captchaDiv {
+    margin-top: -17px;
+    margin-left: 9px;
+    position: relative;
+    z-index: 1;
+}
+
+.labelCell {
+    padding-top: 20px;
+    padding-left: 71px;
+    font-family: Tahoma;
+    font-size: 9pt;
+    color: #ffffff;
+}
+
+.textBoxCell {
+    padding-left: 12px;
+    padding-top: 6px;
+    padding-bottom: 12px;
+}
+
+    .textBoxCell input {
+        border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    background-color: transparent;
+        width: 200px;
+    height: 27px;
+}
