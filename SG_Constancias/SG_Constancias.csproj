@@ -43,7 +43,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Reference Include="DevExpress.Web.Resources.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+=======
+>>>>>>> 0768104bc55eaf5309139f984880fbfa56cbf9f6
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
@@ -170,7 +173,10 @@
     <Content Include="Main.master" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Content Include="PreRegistroSDJL.aspx" />
+=======
+>>>>>>> 0768104bc55eaf5309139f984880fbfa56cbf9f6
     <Content Include="Root.master" />
   </ItemGroup>
   <ItemGroup>
@@ -312,7 +318,10 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="App_Start\Util.cs" />
     <Compile Include="Code\AuthHelper.cs" />
+<<<<<<< HEAD
     <Compile Include="ConexionBD.cs" />
+=======
+>>>>>>> 0768104bc55eaf5309139f984880fbfa56cbf9f6
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -338,6 +347,7 @@
       <DependentUpon>Main.master</DependentUpon>
     </Compile>
     <Compile Include="Models\IdentityModels.cs" />
+<<<<<<< HEAD
     <Compile Include="PreRegistroSDJL.aspx.cs">
       <DependentUpon>PreRegistroSDJL.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -345,6 +355,8 @@
     <Compile Include="PreRegistroSDJL.aspx.designer.cs">
       <DependentUpon>PreRegistroSDJL.aspx</DependentUpon>
     </Compile>
+=======
+>>>>>>> 0768104bc55eaf5309139f984880fbfa56cbf9f6
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Root.master.cs">
       <DependentUpon>Root.master</DependentUpon>
@@ -355,9 +367,12 @@
     </Compile>
     <Compile Include="Startup.cs" />
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <EmbeddedResource Include="Properties\licenses.licx" />
   </ItemGroup>
+=======
+>>>>>>> 0768104bc55eaf5309139f984880fbfa56cbf9f6
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

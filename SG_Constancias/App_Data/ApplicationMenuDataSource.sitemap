@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
   <siteMapNode url="javascript:void(0);">
+<<<<<<< HEAD
     <!--<siteMapNode url="Default.aspx" title="SG_Constancias">
+=======
+    <!--<siteMapNode url="Default.aspx" title="PREDJL">
+>>>>>>> 0768104bc55eaf5309139f984880fbfa56cbf9f6
     </siteMapNode>
     <siteMapNode url="GridView.aspx" title="GridView">
     </siteMapNode>
